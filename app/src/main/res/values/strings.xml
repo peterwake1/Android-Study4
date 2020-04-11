@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textView">BMI指数测定</string>
+    <string name="height">身高:</string>
+    <string name="cm">cm</string>
+    <string name="sex">性别:</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="OK按钮">OK</string>
+    <string name="标准体重">标准体重:</string>
+    <string name="kg">kg</string>
+</resources>
+
